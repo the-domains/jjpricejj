@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jjpricejj]]></title>
         <description><![CDATA[jjpricejj]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jjpricejj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 14:21:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 14:28:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jjpricejj/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Last Saturday I got to open up for DJ Taku Takahashi from M-Flo for his birthday bash at Club World. Pretty sick night. I remember about 10 years ago I was in the same club and same event watching from the crowd. Insane.</p>]]></description>
+            <link>https://thegrid.ai/jjpricejj/last-saturday-i-got-to-open-up-for-dj-taku-takahashi-from-m-/index.html</link>
+            <guid isPermaLink="false">21973be9-be32-4174-b17c-e117c567ff4c</guid>
+            <pubDate>Wed, 30 Mar 2016 14:28:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd6d5f04-b2de-4069-97cf-cb3a7eabe5b1.jpg">]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/jjpricejj/first-post/index.html</link>
             <guid isPermaLink="false">6e730fca-98c5-414b-bb91-e0db444526c5</guid>
             <pubDate>Tue, 29 Mar 2016 14:19:57 GMT</pubDate>
         </item>
